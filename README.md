@@ -1,1 +1,4 @@
-# flightdelay_prediction
+# Flight Delay Prediction & Rescheduling System
+Airline operations involve many complex factors that impact profitability and efficiency. Key areas like flight scheduling, ground crew management, fuel optimization, and passenger services are essential for smooth operations. These factors affect an airline’s performance and are crucial for reducing delays and speeding up turnaround times. Current methods often fail to use advanced, integrated technologies, leading to inefficiencies and missed chances for proactive decision-making. A data-driven approach using predictive analytics, IoT, machine learning, and automation is needed to optimize airline operations in real time.
+
+The goal of this challenge is to apply advanced technologies—such as data analytics, IoT, machine learning, and process automation—to optimize key aspects of airline operations.The task is to build predictive models to improve efficiency in flight scheduling, ground operations, and fuel usage, leading to better performance and increased flight time utilization.
